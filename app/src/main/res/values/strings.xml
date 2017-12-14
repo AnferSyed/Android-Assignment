@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+    <string name="announcement_activity">Announcement</string>
+    <string name="details_activity">Details</string>
+</resources>
